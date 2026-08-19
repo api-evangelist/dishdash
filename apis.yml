@@ -31,7 +31,7 @@ x-enrichment-note: 'Enrichment attempted 2026-07-18: dishdash.co 307-redirects t
   docs., and developer.dishdash.co all fail to resolve. The unrelated dishdash.com is a Bay Area
   Middle Eastern restaurant group (BentoBox site), not this 500 Global portfolio company.
   Conclusion unchanged: no company surface exists to search, probe, or derive from.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
